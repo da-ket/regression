@@ -1,1 +1,10 @@
 kaggle
+jupyter
+pandas
+statsmodels
+scikit-learn
+matplotlib
+seaborn
+pandas-profiling
+xgboost
+mlxtend
